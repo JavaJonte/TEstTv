@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import SideMenu from './SideMenu';
 import { Container, Row, Col } from 'react-bootstrap';
