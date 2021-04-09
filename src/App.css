@@ -28,7 +28,22 @@ h1 {
     cursor: pointer;
 }
 
-/*
+
+.channel-title {
+  text-align: center;
+}
+
+.program-list {
+  list-style-type: none;
+  
+}
+
+.program-list__item {
+  font-size: medium;
+  
+}
+
+
 menu {
   position: absolute;
   width: 300px;
@@ -62,4 +77,3 @@ menu {
   color: black;
   border-radius: 10px;
 }
-*/
